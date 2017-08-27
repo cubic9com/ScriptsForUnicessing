@@ -2,7 +2,10 @@
 
 Generative art scripts for [Unicessing](http://u3d.as/Dr2).
 
-[Videos are available on Twitter moment.](https://twitter.com/i/moments/870596084178984960)
+Videos are available on YouTube.
+[![Videos on YouTube.](http://img.youtube.com/vi/wP8yLJRTWe4/0.jpg)](http://www.youtube.com/watch?v=wP8yLJRTWe4)
+
+[Videos are also available on Twitter moment.](https://twitter.com/i/moments/870596084178984960)
 
 The latest version of scripts are available at
 <https://github.com/cubic9com/ScriptsForUnicessing/>.
